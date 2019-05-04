@@ -1,2 +1,2 @@
 # Hibernate
-Hibernate demos
+Here some hibernate demos
